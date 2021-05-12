@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Priyanka
+- 👋 Hi, I’m Priyanka.
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning C sharp.
-- 💞️ I’m looking to collaborate on projects including html, css, javascript, python, c sharp.
+- 💞️ I’m looking to collaborate on projects including html, css, javascript, sql, python, c sharp.
 - 📫 How to reach me? priyankawu@yahoo.com
 
 <!---
